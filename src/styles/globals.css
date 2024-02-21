@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+  :root {
+    --charcoal: #111111;
+    --silver: #a4a4a4;
+    --sky-blue: #2dc6ed;
+    --teal: #00a49b;
+  }
+}

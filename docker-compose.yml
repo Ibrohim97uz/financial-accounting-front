@@ -1,0 +1,10 @@
+version: "3.8"
+services:
+  dashboard:
+    container_name: dashboard-front
+    restart: always
+    build: .
+    ports:
+      - "3001:3001"
+    # networks:
+    #   - medical
