@@ -16,4 +16,6 @@ STEP 2. Run project
 
 Link for backend project: https://github.com/Ibrohim97uz/financial-account-backend
 
+Also I added CI/CD ✅🚀
+
 Good luck and enjoy my code!🤟
